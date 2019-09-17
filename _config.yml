@@ -5,3 +5,4 @@ repository_name: "students"
 
 exclude:
   - vendor
+theme: jekyll-theme-merlot
